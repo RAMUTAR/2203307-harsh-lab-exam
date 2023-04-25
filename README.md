@@ -1,0 +1,35 @@
+# 2203307-harsh-lab-exam
+
+**ABOUT ME**
+
+**NAME**=HARSH
+AGE=18
+EMAIL : HARSH.2203307@IITGOA.AC.IN
+
+
+** EDUCATION **
+
+
+ACADAMIC YEAR                    STANDERD                    SCHOOL NAME
+2020                             10                          RPS
+2022                             12                          RPS
+2022-2023                        BTECH 1ST YEAR              IIT GOA
+
+## COURSE @IIT GOA ##
+-BASIC LINEAR ALJABRA =DR.KALPESH HARIA
+
+ORDINARY DIFFRANTIAL EQUATION =SUMYA BAJPAL
+
+BIOLOGY=SREENATH SIR
+
+SPORTS SANTOSH YADAV
+
+
+CS102=DR.CLINT GEORGE
+
+## HOBBIES ##
+PLAYING CRICKET 
+
+READING NOVALS
+
+CODING
